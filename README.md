@@ -18,7 +18,7 @@ The repo includes only **my own code**; course materials are not uploaded.
 
 ### 2) Bouncing Ball 
 - A object oriented Project with buncing ball Scene
-- Demo: <p align="center">
+- Demo: <p align="right">
   <img src="https://github.com/YiChiTseng/SC101/blob/main/bouncing%20ball.gif" width="500" alt="Breakout Demo">
 </p>
   
