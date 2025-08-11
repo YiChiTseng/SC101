@@ -14,7 +14,9 @@ The repo includes only **my own code**; course materials are not uploaded.
 ### 1) My Drawing
 - A small creative scene using `campy` shapes and layering.
 - Highlights: constants for sizes/colors, helper functions for components.
-- Demo: *(add screenshot)*
+- Demo: <p align="left">
+  <img src="https://github.com/YiChiTseng/SC101/blob/main/My_drawing.png" width="500" alt="Breakout Demo">
+</p>
 
 ### 2) Bouncing Ball 
 - A object oriented Project with buncing ball Scene
