@@ -12,27 +12,31 @@ The repo includes only **my own code**; course materials are not uploaded.
 - Environment: Python 3.x, `campy` (graphics), standard library
 
 ---
-
 ## Projects
-### 1) Breakout
+### 1) My Drawing
+- A small creative scene using `campy` shapes and layering.
+- Highlights: constants for sizes/colors, helper functions for components.
+- Demo: *(add screenshot)*
+
+### 2) Bouncing Ball 
+- A object oriented Project with buncing ball Scene
+  
+### 3) Breakout
 - A classic brick breaker game (paddle, ball, bricks, lives).
 - Highlights: animation loop, four-corner collision checks, state reset on life loss.
 - Demo: *(add GIF/screenshot)*
 
-### 2) Hangman
+### 4) Hangman
 - Console word-guessing game with duplicate-guess protection.
 - Highlights: set/dict usage, input validation, clean game loop.
 - Demo: *(add screenshot)*
 
-### 3) Baby Names (`babygraphics.py`)
+### 5) Baby Names (`babygraphics.py`)
 - Visualizes name popularity by decade.
 - Highlights: file parsing → dict of dicts, rank→Y mapping (cap at 1000), multiple names overlay.
 - Demo: *(add screenshot)*
 
-### 4) My Drawing
-- A small creative scene using `campy` shapes and layering.
-- Highlights: constants for sizes/colors, helper functions for components.
-- Demo: *(add screenshot)*
+
 
 ---
 
