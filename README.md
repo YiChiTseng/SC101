@@ -1,5 +1,3 @@
-# SC101
-
 # SC101 — StanCode: Build Four Python Projects
 ## Summary
 I completed four core projects in **StanCode SC101**, focusing on Python fundamentals and event-driven graphics with `campy`.  
