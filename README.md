@@ -1,4 +1,4 @@
-# SC101 — StanCode: Build FivePython Projects
+# SC101 — StanCode: Build Five Python Projects
 ## Summary
 I completed four core projects in **StanCode SC101**, focusing on Python fundamentals and event-driven graphics with `campy`.  
 These projects helped me practice clean structure, collision logic, file parsing/visualization, and user interaction.  
