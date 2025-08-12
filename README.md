@@ -32,10 +32,10 @@ The repo includes only **my own code**; course materials are not uploaded.
   <img src="https://github.com/YiChiTseng/SC101/blob/main/break%20out.gif" width="500" alt="Breakout Demo">
 </p>
 
-### 4) Hangman
-- Console word-guessing game with duplicate-guess protection.
-- Highlights: set/dict usage, input validation, clean game loop.
-- Demo: *(add screenshot)*
+### 4) stanCodoshop
+- Removes unwanted people from photos taken at the same location.
+- Highlights: pixel-level RGB comparison, average color calculation, composite image generation.
+- Demo: *(add GIF/screenshot)*
 
 ### 5) Baby Names (`babygraphics.py`)
 - Visualizes name popularity by decade.
