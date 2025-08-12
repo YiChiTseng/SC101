@@ -42,7 +42,8 @@ The repo includes only **my own code**; course materials are not uploaded.
 ### 5) Baby Names (`babygraphics.py`)
 - Visualizes name popularity by decade.
 - Highlights: file parsing → dict of dicts, rank→Y mapping (cap at 1000), multiple names overlay.
-- Demo: *(add screenshot)*
+- Demo:
+
 
 
 
