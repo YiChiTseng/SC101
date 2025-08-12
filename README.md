@@ -35,7 +35,9 @@ The repo includes only **my own code**; course materials are not uploaded.
 ### 4) stanCodoshop
 - Removes unwanted people from photos taken at the same location.
 - Highlights: pixel-level RGB comparison, average color calculation, composite image generation.
-- Demo: *(add GIF/screenshot)*
+- Demo: <p align="left">
+  <img src="https://github.com/YiChiTseng/SC101/blob/main/StanCodoshop.png" width="500" alt="Breakout Demo">
+</p>
 
 ### 5) Baby Names (`babygraphics.py`)
 - Visualizes name popularity by decade.
