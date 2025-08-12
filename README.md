@@ -29,7 +29,7 @@ The repo includes only **my own code**; course materials are not uploaded.
 - A classic brick breaker game (paddle, ball, bricks, lives).
 - Highlights: animation loop, four-corner collision checks, state reset on life loss.
 - Demo: <p align="left">
-  <img src="https://github.com/YiChiTseng/SC101/blob/main/Break%20Out.png" width="500" alt="Breakout Demo">
+  <img src="https://github.com/YiChiTseng/SC101/blob/main/break%20out.gif" width="500" alt="Breakout Demo">
 </p>
 
 ### 4) Hangman
