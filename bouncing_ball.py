@@ -1,6 +1,6 @@
 """
-File: 
-Name:
+File: bouncing_ball.py
+Name: Jeffrey Tseng
 -------------------------
 TODO:
 """
@@ -81,3 +81,4 @@ def handle_click(event):
 
 if __name__ == "__main__":
     main()
+
