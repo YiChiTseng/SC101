@@ -24,8 +24,7 @@ window = GWindow(800, 500, title='bouncing_ball.py')
 window.background_color = 'white'
 background = GRect(800, 500)
 background.filled = True
-background.fill_color = 'white'  # 改成你想要的顏色
-background.color = 'white'       # 邊框顏色也改掉
+background.fill_color = 'white'  # 背景顏色
 window.add(background, 0, 0)
 ball = GOval(SIZE, SIZE)
 ball_count = 0          
@@ -81,4 +80,5 @@ def handle_click(event):
 
 if __name__ == "__main__":
     main()
+
 
